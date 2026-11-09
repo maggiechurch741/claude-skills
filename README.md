@@ -4,6 +4,6 @@ Claude Code skills by Maggie Church.
 
 | skill | what it covers |
 |---|---|
-| `code-style` | coding and data-analysis conventions: R/tidyverse style, error visibility, NA handling, git rules |
+| `code-style` | coding and data-analysis conventions: R/tidyverse style, error visibility, NA handling, git rules (borrowed much of this from Tyson Barrett from Posit) |
 
-To use one in a project, copy or symlink its folder into `<project>/.claude/skills/` (or `~/.claude/skills/` for all projects).
+To use one in a project, copy or symlink its folder into `<project>/.claude-skills/` (or `~/.claude-skills/` for all projects).
